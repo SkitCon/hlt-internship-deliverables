@@ -1,8 +1,6 @@
 # hlt-internship-deliverables
 This repo contains deliverable example scripts and instructions for accessing trained for models for Amber Converse's HLT internship.
 
-This repo accompanies my internship report.
-
 The first section of deliverables is related to web scraping. These scripts are available in directions web_scraping. Available in this directory are the scraping templates for HTML and PDF scraping and a sample finished script that I completed for scraping FLACSO.
 
 The second section is for pre-trained ConfliBERT models. These models are not hosted on this repo, but can be accessed via Hugging Face API at the following paths:
